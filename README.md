@@ -1,4 +1,3 @@
-# kstp-protocol-android-client
+# kstp-client
 
-Android клиент для общения с KSTP сервером в локальной сети.
-
+A test client for interacting with the KSTP server for Android.
